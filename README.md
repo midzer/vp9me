@@ -1,6 +1,6 @@
 # vp9me
 
-Encode any .mp4 and .mkv videos in a folder with ffmpeg VP9.
+Encode any `mp4` and `mkv` videos in a folder to `webm` VP9 using ffmpeg.
 
 ## Configuration
 
